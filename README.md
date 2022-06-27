@@ -2,7 +2,7 @@
 
 1. Primero debe descargar el proyecto.
 2. Luego descomprimir el codigo.
-3. Ejecutar el seguiente comando para instalar dependeciar
+3. Ejecutar el siguiente comando para instalar dependencias
 ### `npm install`
 4. Para verlo correr debe ejecutar 
 ### `npm start`
